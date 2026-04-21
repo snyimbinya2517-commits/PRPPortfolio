@@ -93,5 +93,5 @@ Through my academic journey and work experience, I have learned how to apply the
 [MOCK INTERVIEW](https://youtu.be/ZTP1O4o09JQ)
 
 ---
-##
-[Click here to view my reflection](Reflection.md)
+
+##[Click here to view my reflection](Reflection.md)
