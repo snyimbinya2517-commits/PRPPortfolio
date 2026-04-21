@@ -96,4 +96,4 @@ Through my academic journey and work experience, I have learned how to apply the
 ---
 
 ##Reflection
-[Click here to view my reflection](Reflection.md)
+[Click here to view my reflection](reflection.md)
