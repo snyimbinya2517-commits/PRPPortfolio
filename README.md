@@ -90,10 +90,10 @@ Through my academic journey and work experience, I have learned how to apply the
 
 ---
 ## Mock Interview Video
-#MOCK INTERVIEW
+# MOCK INTERVIEW
 [Click to watch video](https://youtu.be/ZTP1O4o09JQ)
 
 ---
 
-##Reflection
+## Reflection
 [Click here to view my reflection](reflection.md)
