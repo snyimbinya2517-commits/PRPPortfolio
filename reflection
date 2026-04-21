@@ -1,0 +1,35 @@
+[← Back to CV](index.md)
+
+---
+
+## 1. Reflecting on Coding in Markdown
+**Situation:** As I moved into my third year of Information Technology, I realized that a standard document wasn't enough to
+showcase my skills. I needed a professional digital portfolio that looked the part and demonstrated my technical capabilities through its own construction.
+**Goal:** My objective was to use GitHub Flavored Markdown (GFM) to build a structured CV and detailed project descriptions.
+I wanted to move beyond basic text and use industry-standard documentation tools to show that I can communicate effectively within a developer’s workflow.
+**Action:** Working through Git Bash to manage my local repository, I drafted the CV using Markdown syntax.
+I utilized headers for clear organization and tables to display my technical skills. To make the project descriptions more dynamic,
+I applied GFM features like task lists to track milestones and ensured all code snippets featured clean, accurate syntax highlighting.
+**Outcome:** The result was a polished, professional CV that is natively readable and well-organized on GitHub.
+This process significantly improved my proficiency in Markdown— a skill I now recognize as vital for producing high-quality project documentation in the software industry.
+
+---
+
+## 2. Mock Interview Video Reflection
+**Situation:** To prepare for the transition into a professional workplace, I participated in a mock interview as part of of a class exercise we where required to complete. 
+**Goal:** The task was to record a mock interview aswering a set of questions that where giving to use and sumbit the recording on microsoft teams and also embed it on our portfolio.
+**Action:** During the interview, I focused on clearly articulating my experience with Java design patterns and describing my specific contributions to team projects.
+After recording, i successfully uploaded the video on teams and now i am embeding the video on my portfolio via YouTube since my video is very big in space.
+**Outcome:** This experience was incredibly helpful for identifying my strengths in technical communication and highlighting areas where I can further refine my professional presence.
+Successfully embedding the video also demonstrated my ability to integrate multimedia elements into a technical platform.
+
+---
+
+## 3. Deploying with GitHub Pages
+**Situation:** After building my portfolio locally and pushing the code to GitHub, the final step was to transform it from a repository into a live, accessible website.
+**Goal:** My goal was to deploy the project via GitHub Pages, ensuring that all Markdown files rendered correctly as a cohesive, functional site.
+**Action:** I navigated through the repository settings to configure the GitHub Pages source to my `main` branch.
+I managed the deployment process using Git Bash, which involved resolving path issues for images and the mock interview video to ensure everything
+loaded correctly on the live site.
+**Outcome:** The portfolio was successfully published at a live URL, which I then submitted via Blackboard.
+This task confirmed my ability to manage the full lifecycle of a software project, from local development and version control to final cloud deployment.
